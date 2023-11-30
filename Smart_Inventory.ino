@@ -112,9 +112,6 @@ void loop()
                      "Host: " + host + "\r\n" + 
                      "Content-Type: application/x-www-form-urlencoded\r\n" + 
                      "Content-Length: 13\r\n\r\n");
-  //}
-  // else{
-  //   event=event+1;
-  // }
+  
                    
 }
